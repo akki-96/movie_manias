@@ -220,6 +220,6 @@ Pagination is implemented so that user can see whole list of movies
 
 **AUTHOR**
 
-Amit Kumar – [amitkumar.developer1@gmail.com](mailto:amitkumar.developer1@gmail.com)
+Akhilesh Singh – akhileshsin97@gmail.com
 
 Mukul Prasad – mukulp0783@gmail.com

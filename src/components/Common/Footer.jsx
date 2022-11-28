@@ -10,7 +10,7 @@ const Footer = () => {
                         <img src="https://dl.dropboxusercontent.com/s/vx8n6h25qj5dgwn/logo.png?dl=0" alt="logo"/>
                     </div> */}
 					<div className="col-md-6 logoItem">
-						<h3 className="font-weight-bold">Movie Time.</h3>
+						<h3 className="font-weight-bold">Movie Time</h3>
 						<img
 							src="https://dl.dropboxusercontent.com/s/vx8n6h25qj5dgwn/logo.png?dl=0"
 							alt="logo"
@@ -95,7 +95,7 @@ const Footer = () => {
 					</div>
 					<div className="col-md-3 col-6">
 						<h6>
-							<b>Amit Kumar</b>
+							<b>Akhilesh Singh</b>
 						</h6>
 						<small className="text-white">
 							<span>
@@ -104,7 +104,7 @@ const Footer = () => {
 									aria-hidden="true"
 								></i>
 							</span>{' '}
-							Amit@gmail.com
+							akhileshsin97@gmail.com
 						</small>
 					</div>
 					<div className="social_icon_show_on_mobile col-12">
